@@ -1,0 +1,26 @@
+{
+	"name": "@arksouthern/st",
+	"version": "3.0.0",
+	"description": "The best way to manage app state in JavaScript, with support for dependency injection, effect tracking, errors as values, and match expressions.",
+	"license": "MIT",
+	"author": "arksouthern",
+	"keywords": [
+		"dependency-injection",
+		"effect-tracking",
+		"errors-as-values",
+		"match-expressions"
+	],
+	"main": "dist/index.js",
+	"types": "src/index.ts",
+	"scripts": {},
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arksouthern/jsx.git"
+	},
+	"homepage": "https://github.com/arksouthern/jsx#readme",
+	"bugs": {
+		"url": "https://github.com/arksouthern/jsx/issues"
+	},
+	"private": false
+}
